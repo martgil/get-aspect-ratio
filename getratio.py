@@ -3,8 +3,6 @@
 # Date: February 11. 2019
 # Description: simple script to extract aspect ratio of an image
 
-import math
-
 width = input('Enter Image width: ')
 height = input('Enter image height: ')
 
